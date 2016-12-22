@@ -1,11 +1,4 @@
-/**
-**UNIX SHELL & HISTORY FEATURES
-** -----CMPE 180-94------
-
-** Team 22-
-**    -Vimanyu Aggarwal  (011006125)
-**    -Madhur Khandelwal (011440507)
-**    -Sparsh Sidana     (011413402)
+/**UNIX SHELL & HISTORY FEATURES
 **/
 
 #include <unistd.h>   //Needed to define pid
