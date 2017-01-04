@@ -1,7 +1,7 @@
 # Unix-Shell
 
 ##Description:
-A shell has been developed that accepts user commands and executes them in a same/separate process. 
+Attached .cpp files contains the source code for a Unix shell that accepts user commands and executes them in a same/separate process. 
 Language used: C++
 
 ##It has the following features:
