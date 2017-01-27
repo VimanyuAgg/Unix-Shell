@@ -1,4 +1,4 @@
-/**UNIX SHELL & HISTORY FEATURES
+/**UNIX SHELL WITH HISTORY & CUSTOM FEATURES
 **/
 
 #include <unistd.h>   //Needed to define pid
